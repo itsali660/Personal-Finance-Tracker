@@ -16,6 +16,20 @@ A desktop personal finance application built with Python, SQLite, Tkinter, and M
 - Validate dates and transaction amounts
 - Store data using SQLite
 
+## Screenshots
+
+### Main Application
+
+![Personal Finance Tracker Main Application](screenshots/main-dashboard.png)
+
+### Expenses by Category
+
+![Expenses by Category Chart](screenshots/expense-by-category.png)
+
+### Income vs Expenses
+
+![Income vs Expenses Chart](screenshots/income-vs-expense.png)
+
 ## Technologies Used
 
 - Python
