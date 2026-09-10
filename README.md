@@ -1,6 +1,6 @@
 # Personal Finance Tracker
 
-A desktop personal finance application built with Python, SQLite, Tkinter, and Matplotlib.
+A desktop personal finance management application built with Python, SQLite, Tkinter, and Matplotlib. The application provides full CRUD functionality for managing income and expense transactions, persistent SQLite storage, financial summaries, input validation, and interactive data visualizations.
 
 ## Features
 
